@@ -61,9 +61,14 @@ Forestland is the only feature that exhibits negative emissions due to its role 
 
 ## 3. Packages <a class="anchor" id="packages"></a>
 
-To carry out all the objectives for this repo, the following necessary dependencies were loaded:
-+ `Pandas 2.2.2` and `Numpy 1.26`
+To carry out all the objectives for this repo, the following necessary libraries and dependenciesare required:
++ `Pandas 2.2.2` and `Numpy 1.26.4`
 + `Matplotlib 3.8.4`
++ `Seaborn 0.13.2`
++ `Sklearn 1.4.2`
++ `Statsmodel 0.14.2`
++ `Scipy 1.13.1`
++ `Python 3.12.4`
  
 
 ## 4. Environment <a class="anchor" id="environment"></a>
@@ -92,13 +97,4 @@ pip install -r requirements.txt
 
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
-| [Jana Liebenberg-Fouche](https://github.com/Jana-Liebenberg)                                | jliebenberg-fouche@sandtech.com
-| [Edmund Dotsey](https://github.com/Edotsey)                                                 | edotsey@sandtech.com
-| [Farayi Myambo](https://github.com/Farayi-Explore)                                          | fmyambo@sandtech.com
-
-
-
-#### Additional Resources to create a README file:
-- [Make a README](https://www.makeareadme.com/)
-- [GitHub Docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
-- [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
+| [Erich du Plessis]                               | erichdpedsa@gmail.com
