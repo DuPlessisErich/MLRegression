@@ -11,7 +11,8 @@
 * [2. Dataset](#dataset)
 * [3. Packages](#packages)
 * [4. Environment](#environment)
-* [5. Team Members](#team-members)
+* [5. Trello Board](#Trello)
+* [6. Team Members](#team-members)
 
 ## 1. Project Overview <a class="anchor" id="project-description"></a>
 Your team of environmental consultants and data scientists are tasked by a coalition of agricultural stakeholders to analyse and predict the effect of CO2 emissions on climate change from the agri-food sector. The stakeholders include policymakers, agricultural businesses, and environmental organisations. Your project aims to understand the impact of agricultural activities on climate change and develop strategies for sustainable practices. Utilising a comprehensive dataset compiled from the Food and Agriculture Organization (FAO) and the Intergovernmental Panel on Climate Change (IPCC), you will explore various emission sources, perform regression analysis to predict temperature variations, and offer actionable insights for the stakeholders.
@@ -93,7 +94,10 @@ conda install pip
 pip install -r requirements.txt
 ```
 
-## 5. Team Members<a class="anchor" id="team-members"></a>
+## 5. Trello Board<a class="anchor" id="Trello"></a>
+https://trello.com/invite/b/6731caf6065b8773316d26a0/ATTIed97f9311bdfb98d58b911e464d4ce1017533712/regression-project-planning
+
+## 6. Team Members<a class="anchor" id="team-members"></a>
 
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
